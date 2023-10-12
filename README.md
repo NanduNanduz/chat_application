@@ -1,6 +1,7 @@
-# chat_application 🚀
-
+<h1 align="center">chat_application 🚀</h1>
+<div align="center">
 Welcome to Chat App, a real-time messaging application that lets you connect with others and have seamless conversations.💬✨
+</div>
 
 ## Features
 
